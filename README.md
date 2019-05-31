@@ -75,11 +75,11 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 > Run ngrok on http port 8080
 
-## Run Frontend Application
+### Run Frontend Application
 
 > Start backend server first
 
-> Import dialogflow project from 
+> Import dialogflow project from /SystemCode/ISSAC.zip
 
 > Go to Google Cloud Platform https://console.cloud.google.com/home/dashboard
 
