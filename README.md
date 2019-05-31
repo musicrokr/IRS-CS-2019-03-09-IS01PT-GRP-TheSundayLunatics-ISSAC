@@ -99,6 +99,8 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 <img src="Miscellaneous/credential2.png" style="float: left; margin-right: 0px;" />
 
 > Copy the downloaded JSON file ( ISSAC-*.json) to the root folder of the project - ISSAC
+
+>Replace GOOGLE_APPLICATION_CREDENTIALS and DIALOGFLOW_PROJECT_ID in index.py
 <img src="Miscellaneous/update_in_code.png" style="float: left; margin-right: 0px;" />
 
 >$ cd folder_location/SystemCode/issac-frontend
