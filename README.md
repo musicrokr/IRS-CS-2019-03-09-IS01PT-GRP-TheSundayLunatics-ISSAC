@@ -39,49 +39,40 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 > open terminal in iss-vm
 
-> $ git clone https://github.com/musicrokr/IRS-RS-2019-03-09-IS01PT-GRP-TheSundayLunatics-DeckSorcery.git
+> $ git clone https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC.git
 
-> $ cd folder_location/SystemCode/deck-sorcery-master
+> $ cd folder_location/SystemCode/issac-backend
 
 > $ py -m venv env
 
 > $ env\Scripts\activate
 
-> $ pip install flask
+> $ pip install -r requirements.txt
 
-> $ set FLASK_APP=main.py
+> $ python main.py
 
-> $ pip install sklearn
+> Download ngrok from https://ngrok.com/
 
-> $ pip install deap
-
-> $ flask run
-
-> **Go to URL listed in Command Prompt using web browser** http://127.0.0.1:5000
+> Run ngrok on http port 8080
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in Python 3 only.
 
-> $ git clone https://github.com/musicrokr/IRS-RS-2019-03-09-IS01PT-GRP-TheSundayLunatics-DeckSorcery.git
+> $ git clone https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC.git
 
-> $ cd folder_location/SystemCode/deck-sorcery-master
+> $ cd folder_location/SystemCode/issac-backend
 
 > $ py -m venv env
 
 > $ env\Scripts\activate
 
-> $ pip install flask
+> $ pip install -r requirements.txt
 
-> $ set FLASK_APP=main.py
+> $ python main.py
 
-> $ pip install sklearn
+> Download ngrok from https://ngrok.com/
 
-> $ pip install deap
-
-> $ flask run
-
-> **Go to URL listed in Command Prompt using web browser** http://127.0.0.1:5000
-
+> Run ngrok on http port 8080
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
