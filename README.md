@@ -15,10 +15,10 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 | Official Full Name  | Student ID  | Work Items | 
 | :------------ |:---------------:| :-----| 
-| Tan Jun Khiang | A0195169N | Project Report, Knowledge Discovery, Video| 
-| Tan Wei Lian | A0048135J | Python Application - Genetic Algorithmn & Knowledge Discovery|
+| Tan Jun Khiang | A0195169N | Project Report, Information Extraction, Video| 
+| Tan Wei Lian | A0048135J | Python Application - Backend Fulfilment|
 | Tang Meng | A0137099U | Flask Web Application |
-| Leong Jun Hun, Darryl | A0195318X | Project Report, Knowledge Discovery| 
+| Leong Jun Hun, Darryl | A0195318X | Information Extraction, Project Report| 
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
