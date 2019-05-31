@@ -8,12 +8,7 @@
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
 
-ISSAC is the implementation of an Automated Chatbot to provide information about the Institute of System Science (ISS) of the National University of Singapore. ISSAC is able to answer a wide range of ISS related queries, covering general information, Staff, Graduate Programmes, Executive Education/Stackable, Info Sessions and Seminar and Conferences. General Information such as what ISS does, mission, core values and details about its Management Board is provided by ISSAC. Users can also enquire about Graduate and Executive Education Programme course description, fees, application deadlines, key takeaways. Follow Up Intents were created to prompt users for their nationality when enquiring about Graduate Programme fees to enable a more natural conversation flowFor staff, users can as about staff positions, email addresses and the courses they teach. 
-
-The key challenge was to identify key information contained with the website and extracting the relevant information from the website. Information Extraction (IE) techniques were applied to the website to summarize natural language text into a structured set of facts. 
-
-On the backend, Google’s Dialogflow was used.A custom python application was used to develop a backend fulfilment engine, accompanied by the Knowledge Base capability of Dialogflow. On the frontend, a Flask application was used to simulate a chatbot interface. 
-
+ISSAC is the implementation of an Automated Chatbot to provide information about the Institute of System Science (ISS) of the National University of Singapore. The key challenge was to identify key information contained with the website and extracting the relevant information from the website. Information Extraction (IE) techniques were applied to the website to summarize natural language text into a structured set of facts. We developed a framework for plugging in and executing IE methods over 150 pages in the ISS website. We also integrated a generic web crawler in the system.
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -118,11 +113,10 @@ On the backend, Google’s Dialogflow was used.A custom python application was u
 
 > Go to browser, type localhost:5000
 <img src="Miscellaneous/start.png" style="float: left; margin-right: 0px;" />
-
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC/blob/master/ProjectReport/ISSAC%20Project%20Report.pdf>
+`<Github File Link>` : <https://github.com/musicrokr/IRS-RS-2019-03-09-IS01PT-GRP-TheSundayLunatics-DeckSorcery/blob/master/ProjectReport/Deck%20Sorcery%20Project%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
@@ -134,7 +128,7 @@ N.A.
 
 ---
 
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
+**This Cognitive Systems (CS) course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
 **Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
 
