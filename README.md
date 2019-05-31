@@ -2,7 +2,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## ISSAC: Institute of System Science Automated Chatbot
 
-<img src="Miscellaneous/issac_revised.png"
+<img src="Miscellaneous/ISSACheader.png"
      style="float: left; margin-right: 0px;" />
 
 ---
