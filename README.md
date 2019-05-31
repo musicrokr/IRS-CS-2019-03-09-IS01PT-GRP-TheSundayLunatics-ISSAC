@@ -111,7 +111,7 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 >$ python index.py
 
-> Go to brower, type localhost:5000
+> Go to browser, type localhost:5000
 <img src="Miscellaneous/start.png" style="float: left; margin-right: 0px;" />
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
