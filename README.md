@@ -23,7 +23,7 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<a href="https://youtu.be/Vxq8k3xzHlw"><img src="Miscellaneous/YTDeck Sorcery.png"
+<a href="https://youtu.be/1nXd9V-3M4E"><img src="Miscellaneous/YTDeck Sorcery.png"
      style="float: left; margin-right: 0px;" /></a>
 
 ---
