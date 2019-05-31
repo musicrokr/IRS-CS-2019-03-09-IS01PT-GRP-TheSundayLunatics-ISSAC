@@ -1,0 +1,7 @@
+{
+    "graddip-sa": ["Methodology", "Technology", "Databases", "Programming – C# Suite", "Programming - Java Suite", "Programming -Python Suite", "Full stack Solution Development", "Internet Application Development", "Project Management", "Mobile Solution Development"],
+    "mtech-ebac": ["Analytics Project Management and Delivery", "Core Analytics Techniques", "Customer Analytics", "Big Data Processing", "Practical Language Processing", "Advanced Predictive Modelling Techniques"],
+    "mtech-dl": ["Practice of Digital Business", "Digital Transformation", "Digital Leadership & People", "Digital Leadership Capstone"],
+    "mtech-is": ["Intelligent Reasoning Systems", "Pattern Recognition Systems", "Intelligent Sensing Systems", "Intelligent Software Agents", "Practical Language Processing", "Intelligent Robotic Systems"],
+    "mtech-swe": ["Architecting Scalable Systems", "Architecting Smart Systems", "Designing and Managing Products and Platforms", "Engineering Big Data", "Securing Ubiquitous Systems"]
+}

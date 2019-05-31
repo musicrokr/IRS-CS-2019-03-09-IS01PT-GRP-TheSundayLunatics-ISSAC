@@ -1,0 +1,52 @@
+[
+    {
+        "graduate-programme": "graddip-sa",
+        "answer": "S$10,013.29 for Singaporean, S$15,663.29 for Singapore PR",
+        "application-group": "sg"
+    },
+    {
+        "graduate-programme": "graddip-sa",
+        "answer": "S$23,563.29 for with Service obligation, S$37,463.29 without Service Obligation",
+        "application-group": "non-sg"
+    },
+    {
+        "graduate-programme": "mtech-ebac",
+        "answer": "S$19,951.22 to S$21,376.46",
+        "application-group": "sg"
+    },
+    {
+        "graduate-programme": "mtech-ebac",
+        "answer": "S$52,023.40 to S$56,774.20",
+        "application-group": "non-sg"
+    },
+    {
+        "graduate-programme": "mtech-dl",
+        "answer": "S$10,257.90 per semester",
+        "application-group": "sg"
+    },
+    {
+        "graduate-programme": "mtech-dl",
+        "answer": "S$11,382.90 per semester",
+        "application-group": "non-sg"
+    },
+    {
+        "graduate-programme": "mtech-is",
+        "answer": "S$20,939.90 to S$22,095.50",
+        "application-group": "sg"
+    },
+    {
+        "graduate-programme": "mtech-is",
+        "answer": "S$55,319.00 to S$59,171.00",
+        "application-group": "non-sg"
+    },
+    {
+        "graduate-programme": "mtech-swe",
+        "answer": "S$17,981.35 or S$18,222.10",
+        "application-group": "sg"
+    },
+    {
+        "graduate-programme": "mtech-swe",
+        "answer": "S$45,956.50 or S$46,759.00",
+        "application-group": "non-sg"
+    }
+]

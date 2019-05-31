@@ -1,0 +1,67 @@
+[ 
+    {
+        "graduate-programme": "graddip-sa",
+        "answer": "Full-time 1 year",
+        "graduate-programme-ptft": ""
+    },
+    {
+        "graduate-programme": "mtech-ebac",
+        "answer": "Full-time 1 year (2 semesters) Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": ""
+    },
+    {
+        "graduate-programme": "mtech-dl",
+        "answer": "Part-time  2 years (4 semesters)",
+        "graduate-programme-ptft": ""
+    },
+    {
+        "graduate-programme": "mtech-is",
+        "answer": "Full-time 1 year (2 semesters) Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": ""
+    },
+    {
+        "graduate-programme": "mtech-swe",
+        "answer": "Full-time 1 year (2 semesters) Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": ""
+    },
+    {
+        "graduate-programme": "graddip-sa",
+        "answer": "Full-time 1 year",
+        "graduate-programme-ptft": "ft"
+    },
+    {
+        "graduate-programme": "mtech-ebac",
+        "answer": "Full-time 1 year (2 semesters)",
+        "graduate-programme-ptft": "ft"
+    },
+    {
+        "graduate-programme": "mtech-is",
+        "answer": "Full-time 1 year (2 semesters)",
+        "graduate-programme-ptft": "ft"
+    },
+    {
+        "graduate-programme": "mtech-swe",
+        "answer": "Full-time 1 year (2 semesters)",
+        "graduate-programme-ptft": "ft"
+    },
+    {
+        "graduate-programme": "mtech-ebac",
+        "answer": "Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": "pt"
+    },
+    {
+        "graduate-programme": "mtech-dl",
+        "answer": "Part-time  2 years (4 semesters)",
+        "graduate-programme-ptft": "pt"
+    },
+    {
+        "graduate-programme": "mtech-is",
+        "answer": "Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": "pt"
+    },
+    {
+        "graduate-programme": "mtech-swe",
+        "answer": "Part-time 2 years (4 semesters)",
+        "graduate-programme-ptft": "pt"
+    }
+]
