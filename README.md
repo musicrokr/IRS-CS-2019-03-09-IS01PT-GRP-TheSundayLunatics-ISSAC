@@ -29,7 +29,7 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/musicrokr/IRS-RS-2019-03-09-IS01PT-GRP-TheSundayLunatics-DeckSorcery/blob/master/UserGuide/Deck%20Sorcery%20User%20Guide.pdf>
+`<Github File Link>` : <https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC/blob/master/UserGuide/ISSAC%20User%20Guide.pdf>
 
 ### [ 1 ] To run the system using iss-vm
 
