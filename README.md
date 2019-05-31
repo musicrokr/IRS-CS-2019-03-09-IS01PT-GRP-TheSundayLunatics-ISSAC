@@ -55,6 +55,18 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 > Run ngrok on http port 8080
 
+> Import dialogflow project from 
+
+> Go to Google Cloud Platform https://console.cloud.google.com/home/dashboard
+
+> Select ISSAC project name: ISSAC
+
+> Copy out the project_id. e.g issac-b2751
+
+>
+
+
+
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in Python 3 only.
 
