@@ -55,6 +55,30 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 
 > Run ngrok on http port 8080
 
+
+### [ 2 ] To run the system in other/local machine:
+### Install additional necessary libraries. This application works in Python 3 only.
+
+> $ git clone https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC.git
+
+> $ cd folder_location/SystemCode/issac-backend
+
+> $ py -m venv env
+
+> $ env\Scripts\activate
+
+> $ pip install -r requirements.txt
+
+> $ python main.py
+
+> Download ngrok from https://ngrok.com/
+
+> Run ngrok on http port 8080
+
+## Run Frontend Application
+
+> Start backend server first
+
 > Import dialogflow project from 
 
 > Go to Google Cloud Platform https://console.cloud.google.com/home/dashboard
@@ -86,28 +110,7 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 >$ python index.py
 
 > Go to brower, type localhost:5000
-
-
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in Python 3 only.
-
-> $ git clone https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC.git
-
-> $ cd folder_location/SystemCode/issac-backend
-
-> $ py -m venv env
-
-> $ env\Scripts\activate
-
-> $ pip install -r requirements.txt
-
-> $ python main.py
-
-> Download ngrok from https://ngrok.com/
-
-> Run ngrok on http port 8080
-
+<img src="Miscellaneous/start.png" style="float: left; margin-right: 0px;" />
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
