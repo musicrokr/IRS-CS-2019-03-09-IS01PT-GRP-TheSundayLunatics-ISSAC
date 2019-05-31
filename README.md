@@ -62,8 +62,30 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 > Select ISSAC project name: ISSAC
 
 > Copy out the project_id. e.g issac-b2751
+<img src="Miscellaneous/project_id.png" style="float: left; margin-right: 0px;" />
 
->
+> Go to APIs & Services then Credentials
+
+> Under Create credentials, click on Service account key
+<img src="Miscellaneous/credential.png" style="float: left; margin-right: 0px;" />
+
+> Select Dialogflow integrations under Service account.
+
+> Then select JSON under key type, click create
+<img src="Miscellaneous/credential2.png" style="float: left; margin-right: 0px;" />
+
+> Copy the downloaded JSON file ( ISSAC-*.json) to the root folder of the project - ISSAC
+<img src="Miscellaneous/update_in_code.png" style="float: left; margin-right: 0px;" />
+
+>$ cd folder_location/SystemCode/issac-frontend
+
+>$ pip install dialogflow
+
+>$ pip install flask
+
+>$ python index.py
+
+> Go to brower, type localhost:5000
 
 
 
