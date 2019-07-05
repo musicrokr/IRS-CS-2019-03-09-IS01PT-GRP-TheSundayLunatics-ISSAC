@@ -116,7 +116,7 @@ ISSAC is the implementation of an Automated Chatbot to provide information about
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/musicrokr/IRS-RS-2019-03-09-IS01PT-GRP-TheSundayLunatics-DeckSorcery/blob/master/ProjectReport/Deck%20Sorcery%20Project%20Report.pdf>
+`<Github File Link>` : <https://github.com/musicrokr/IRS-CS-2019-03-09-IS01PT-GRP-TheSundayLunatics-ISSAC/blob/master/ProjectReport/ISSAC%20Project%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
